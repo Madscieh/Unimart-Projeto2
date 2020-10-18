@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 5371d979fe83f794c85d4f99df3ea3b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5812794099142325857
+    second: janitorarmadourada_0
+  - first:
+      213: -328921082899010019
+    second: janitorarmadourada_1
+  - first:
+      213: -818589370511334220
+    second: janitorarmadourada_2
+  - first:
+      213: -1179081962839026000
+    second: janitorarmadourada_3
+  - first:
+      213: -7634784159570951382
+    second: janitorarmadourada_4
+  - first:
+      213: 4180451779263468306
+    second: janitorarmadourada_5
+  - first:
+      213: 7036993204533819242
+    second: janitorarmadourada_6
+  - first:
+      213: 7676622872495332119
+    second: janitorarmadourada_7
+  - first:
+      213: 221614294045660090
+    second: janitorarmadourada_8
+  - first:
+      213: -4355382481227216561
+    second: janitorarmadourada_9
+  - first:
+      213: 5775282588697354009
+    second: janitorarmadourada_10
+  - first:
+      213: 21994974844695678
+    second: janitorarmadourada_11
+  - first:
+      213: 9059145072187555853
+    second: janitorarmadourada_12
+  - first:
+      213: 751752123018991261
+    second: janitorarmadourada_13
+  - first:
+      213: 6518173634305633256
+    second: janitorarmadourada_14
+  - first:
+      213: -5736267077723630739
+    second: janitorarmadourada_15
+  - first:
+      213: 6874943606528098169
+    second: janitorarmadourada_16
+  - first:
+      213: 8481968450484333181
+    second: janitorarmadourada_17
+  - first:
+      213: -4452712610518303805
+    second: janitorarmadourada_18
+  - first:
+      213: -7996796326271840682
+    second: janitorarmadourada_19
+  - first:
+      213: 5480942562072519572
+    second: janitorarmadourada_20
+  - first:
+      213: 2430545761421129699
+    second: janitorarmadourada_21
+  - first:
+      213: -6472414593189627877
+    second: janitorarmadourada_22
+  - first:
+      213: 2334824753270039244
+    second: janitorarmadourada_23
+  - first:
+      213: 8996033519420284848
+    second: janitorarmadourada_24
+  - first:
+      213: -1745465852969468112
+    second: janitorarmadourada_25
+  - first:
+      213: -6119618217283240257
+    second: janitorarmadourada_26
+  - first:
+      213: 5101377585245827304
+    second: janitorarmadourada_27
+  - first:
+      213: 21307442321933680
+    second: janitorarmadourada_28
+  - first:
+      213: 6405543113807704527
+    second: janitorarmadourada_29
+  - first:
+      213: 261986423709439079
+    second: janitorarmadourada_30
+  - first:
+      213: -4913340110848554576
+    second: janitorarmadourada_31
+  - first:
+      213: -5919885717612628412
+    second: janitorarmadourada_32
+  - first:
+      213: -3354344057217064774
+    second: janitorarmadourada_33
+  - first:
+      213: 7151883269690003758
+    second: janitorarmadourada_34
+  - first:
+      213: 5316274567323344967
+    second: janitorarmadourada_35
+  - first:
+      213: 3955031955431834059
+    second: janitorarmadourada_36
+  - first:
+      213: 3750832067595657121
+    second: janitorarmadourada_37
+  - first:
+      213: 6923230910727632590
+    second: janitorarmadourada_38
+  - first:
+      213: 3226246023002244467
+    second: janitorarmadourada_39
+  - first:
+      213: 6189662153576870177
+    second: janitorarmadourada_40
+  - first:
+      213: -7782876566939812285
+    second: janitorarmadourada_41
+  - first:
+      213: 3615447562986197082
+    second: janitorarmadourada_42
+  - first:
+      213: -8714967660822751473
+    second: janitorarmadourada_43
+  - first:
+      213: -3906535252908093309
+    second: janitorarmadourada_44
+  - first:
+      213: 5744348472181367031
+    second: janitorarmadourada_45
+  - first:
+      213: -7775695811209843728
+    second: janitorarmadourada_46
+  - first:
+      213: 58280388482311230
+    second: janitorarmadourada_47
+  - first:
+      213: 1209898930453154917
+    second: janitorarmadourada_48
+  - first:
+      213: -6560824416438584717
+    second: janitorarmadourada_49
+  - first:
+      213: 8426959474824682928
+    second: janitorarmadourada_50
+  - first:
+      213: 8973594953435997617
+    second: janitorarmadourada_51
+  - first:
+      213: 7051701257258484869
+    second: janitorarmadourada_52
+  - first:
+      213: 1292802663038675173
+    second: janitorarmadourada_53
+  - first:
+      213: -5547306743840498065
+    second: janitorarmadourada_54
+  - first:
+      213: 2653344981504731986
+    second: janitorarmadourada_55
+  - first:
+      213: 8194962754559723496
+    second: janitorarmadourada_56
+  - first:
+      213: -4597196415726388380
+    second: janitorarmadourada_57
+  - first:
+      213: -8825814714756684365
+    second: janitorarmadourada_58
+  - first:
+      213: 7921874580654535182
+    second: janitorarmadourada_59
+  - first:
+      213: -9125611557514628271
+    second: janitorarmadourada_60
+  - first:
+      213: 6087000030991994491
+    second: janitorarmadourada_61
+  - first:
+      213: 6090021081419980875
+    second: janitorarmadourada_62
+  - first:
+      213: -1497649113611562707
+    second: janitorarmadourada_63
+  - first:
+      213: -5042815212360202668
+    second: janitorarmadourada_64
+  - first:
+      213: -9119687772582765016
+    second: janitorarmadourada_65
+  - first:
+      213: -1724242142331425541
+    second: janitorarmadourada_66
+  - first:
+      213: -7131258442525554720
+    second: janitorarmadourada_67
+  - first:
+      213: -7619495762955573988
+    second: janitorarmadourada_68
+  - first:
+      213: 737025548828634883
+    second: janitorarmadourada_69
+  - first:
+      213: -5989621467522315259
+    second: janitorarmadourada_70
+  - first:
+      213: -8933131073745886815
+    second: janitorarmadourada_71
+  - first:
+      213: 5919625496991367762
+    second: janitorarmadourada_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: janitorarmadourada_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 627
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998228709ec45fa0800000000000000
+      internalID: -5812794099142325857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 627
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eeaae84007f6bf0800000000000000
+      internalID: -328921082899010019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 627
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e2c9fd49c3a4f0800000000000000
+      internalID: -818589370511334220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 627
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d8eba33f03afe0800000000000000
+      internalID: -1179081962839026000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 546
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238ef7f14ccb0690800000000000000
+      internalID: -7634784159570951382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 546
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21316a78eb2f30a30800000000000000
+      internalID: 4180451779263468306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677313390c68a160800000000000000
+      internalID: 7036993204533819242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 545
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b19bd74d7d88a60800000000000000
+      internalID: 7676622872495332119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 545
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab39db9b605531300800000000000000
+      internalID: 221614294045660090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 547
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490e7985b29e83c0800000000000000
+      internalID: -4355382481227216561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 545
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fddc86aece52050800000000000000
+      internalID: 5775282588697354009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 550
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74367620542e4000800000000000000
+      internalID: 21994974844695678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 547
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00487c127c88bd70800000000000000
+      internalID: 9059145072187555853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 547
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9651bba292ce6a00800000000000000
+      internalID: 751752123018991261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 467
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebaa19b264357a50800000000000000
+      internalID: 6518173634305633256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 467
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d38f1c7fa460b0800000000000000
+      internalID: -5736267077723630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 467
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f33fdf8c4b86f50800000000000000
+      internalID: 6874943606528098169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 467
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6037cd5106b570800000000000000
+      internalID: 8481968450484333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 466
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7723e879c432c0800000000000000
+      internalID: -4452712610518303805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 465
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0b6f2c1ca50190800000000000000
+      internalID: -7996796326271840682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 460
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e6ae8838301c40800000000000000
+      internalID: 5480942562072519572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 459
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e776df0e780bb120800000000000000
+      internalID: 2430545761421129699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 456
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b0e5483d5d26a0800000000000000
+      internalID: -6472414593189627877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 387
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2237f1eb6f66020800000000000000
+      internalID: 2334824753270039244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 385
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9d88a2d458dc70800000000000000
+      internalID: 8996033519420284848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 386
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f3e2afd0cd6c7e0800000000000000
+      internalID: -1745465852969468112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 385
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeb2dd87afb21ba0800000000000000
+      internalID: -6119618217283240257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 387
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b7b1b2ebbbc640800000000000000
+      internalID: 5101377585245827304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 387
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075cba28103bb4000800000000000000
+      internalID: 21307442321933680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 387
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc135f3268f05e850800000000000000
+      internalID: 6405543113807704527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 387
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7641d29a343c2a300800000000000000
+      internalID: 261986423709439079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 450
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98130833f40dbb0800000000000000
+      internalID: -4913340110848554576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467ac20e4758dda0800000000000000
+      internalID: -5919885717612628412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 307
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0622f1ad9f271d0800000000000000
+      internalID: -3354344057217064774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 307
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219ee401f7904360800000000000000
+      internalID: 7151883269690003758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 307
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74060c95d8337c940800000000000000
+      internalID: 5316274567323344967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc145dadb9813e630800000000000000
+      internalID: 3955031955431834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 307
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afde2984e1ad0430800000000000000
+      internalID: 3750832067595657121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 307
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6bceb15d1441060800000000000000
+      internalID: 6923230910727632590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 307
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c01f1aade5cc20800000000000000
+      internalID: 3226246023002244467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 227
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f0a73fe816e550800000000000000
+      internalID: 6189662153576870177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 227
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e37d07ffaadf390800000000000000
+      internalID: -7782876566939812285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5018df2766ac2230800000000000000
+      internalID: 3615447562986197082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 227
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0794ab16173e0780800000000000000
+      internalID: -8714967660822751473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 227
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805fdb92e239c9c0800000000000000
+      internalID: -3906535252908093309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ad66208608bf40800000000000000
+      internalID: 5744348472181367031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb285b6bdd271490800000000000000
+      internalID: -7775695811209843728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 208
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342cdc54bd0fc000800000000000000
+      internalID: 58280388482311230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 208
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c09cbbaac6ac010800000000000000
+      internalID: 1209898930453154917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 205
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af77834f443f4a0800000000000000
+      internalID: -6560824416438584717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 226
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd99819ef292f470800000000000000
+      internalID: 8426959474824682928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 205
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56ac5e01d988c70800000000000000
+      internalID: 8973594953435997617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 215
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58441159eecacd160800000000000000
+      internalID: 7051701257258484869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 112
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e869172c25f0f110800000000000000
+      internalID: 1292802663038675173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e124948e10403b0800000000000000
+      internalID: -5547306743840498065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_55
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 185
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ba721e33392d420800000000000000
+      internalID: 2653344981504731986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 115
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c61dd43b5ab170800000000000000
+      internalID: 8194962754559723496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bfde5873a7330c0800000000000000
+      internalID: -4597196415726388380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b523813748648580800000000000000
+      internalID: -8825814714756684365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 115
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023c1f85f620fd60800000000000000
+      internalID: 7921874580654535182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153342453a05b5180800000000000000
+      internalID: -9125611557514628271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 115
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec113274e597450800000000000000
+      internalID: 6087000030991994491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 115
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ada048e9148450800000000000000
+      internalID: 6090021081419980875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d211109e018473be0800000000000000
+      internalID: -1497649113611562707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 115
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45685574842540ab0800000000000000
+      internalID: -5042815212360202668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1bbcf94c507180800000000000000
+      internalID: -9119687772582765016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca39f28e24218e0800000000000000
+      internalID: -1724242142331425541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e742c3ca3ea80d90800000000000000
+      internalID: -7131258442525554720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15607139fc124690800000000000000
+      internalID: -7619495762955573988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f615ce4d07a3a00800000000000000
+      internalID: 737025548828634883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 34
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4749720790eca0800000000000000
+      internalID: -5989621467522315259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 34
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16f514e94270480800000000000000
+      internalID: -8933131073745886815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janitorarmadourada_72
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 34
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520487a60cb62250800000000000000
+      internalID: 5919625496991367762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

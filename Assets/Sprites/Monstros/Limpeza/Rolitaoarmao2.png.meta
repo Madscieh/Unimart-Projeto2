@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: dc04178b42df57e49818527a611b83ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9121666197522068707
+    second: Rolitaoarmao_0
+  - first:
+      213: 5338169037235877735
+    second: Rolitaoarmao_1
+  - first:
+      213: 449806565325877023
+    second: Rolitaoarmao_2
+  - first:
+      213: -625834573497616701
+    second: Rolitaoarmao_3
+  - first:
+      213: 8269786310648809023
+    second: Rolitaoarmao_4
+  - first:
+      213: 8921478461464978300
+    second: Rolitaoarmao_5
+  - first:
+      213: 6060598161380909879
+    second: Rolitaoarmao_6
+  - first:
+      213: -7983540562320566704
+    second: Rolitaoarmao_7
+  - first:
+      213: -5027328829771292224
+    second: Rolitaoarmao_8
+  - first:
+      213: -1833685673123598302
+    second: Rolitaoarmao_9
+  - first:
+      213: 7120383887783240339
+    second: Rolitaoarmao_10
+  - first:
+      213: -6949362929396229110
+    second: Rolitaoarmao_11
+  - first:
+      213: -102336185939793863
+    second: Rolitaoarmao_12
+  - first:
+      213: 1408325588358417924
+    second: Rolitaoarmao_13
+  - first:
+      213: -3111987396585386528
+    second: Rolitaoarmao_14
+  - first:
+      213: -1055064055730512133
+    second: Rolitaoarmao_15
+  - first:
+      213: 6791698282588304270
+    second: Rolitaoarmao_16
+  - first:
+      213: -1882690366238040428
+    second: Rolitaoarmao_17
+  - first:
+      213: -8766678981233132302
+    second: Rolitaoarmao_18
+  - first:
+      213: 5208584622113102546
+    second: Rolitaoarmao_19
+  - first:
+      213: 5124444172530362798
+    second: Rolitaoarmao_20
+  - first:
+      213: -673481513379506335
+    second: Rolitaoarmao_21
+  - first:
+      213: -5401701270755504281
+    second: Rolitaoarmao_22
+  - first:
+      213: 413337921624176025
+    second: Rolitaoarmao_23
+  - first:
+      213: -805082017210390631
+    second: Rolitaoarmao_24
+  - first:
+      213: 770079820665588715
+    second: Rolitaoarmao_25
+  - first:
+      213: 8216687475188709311
+    second: Rolitaoarmao_26
+  - first:
+      213: -6108654320489780403
+    second: Rolitaoarmao_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rolitaoarmao_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 436
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4bdf6f31ba69e70800000000000000
+      internalID: 9121666197522068707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 436
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767fe6fd47cf41a40800000000000000
+      internalID: 5338169037235877735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 436
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f23ef10b80e3600800000000000000
+      internalID: 449806565325877023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 436
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6348e65c69057f0800000000000000
+      internalID: -625834573497616701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 436
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364c9695de24c270800000000000000
+      internalID: 8269786310648809023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 372
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732be684657fcb70800000000000000
+      internalID: 8921478461464978300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 372
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ae77dae19b1450800000000000000
+      internalID: 6060598161380909879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 372
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d5fc3824c43190800000000000000
+      internalID: -7983540562320566704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 372
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e664b0175b3ab0800000000000000
+      internalID: -5027328829771292224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 369
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220beb778907d86e0800000000000000
+      internalID: -1833685673123598302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 400
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3922cb7ab6fa0d260800000000000000
+      internalID: 7120383887783240339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 308
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd11a2c37ee8f90800000000000000
+      internalID: -6949362929396229110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 308
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e365f7cd649ef0800000000000000
+      internalID: -102336185939793863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e423639a06b8310800000000000000
+      internalID: 1408325588358417924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 307
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed090963ffffc4d0800000000000000
+      internalID: -3111987396585386528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 308
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe56eec4d8ab51f0800000000000000
+      internalID: -1055064055730512133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 244
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837e43aa95f04e50800000000000000
+      internalID: 6791698282588304270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 244
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed45a36175fd5e0800000000000000
+      internalID: -1882690366238040428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 244
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc37b71aef765680800000000000000
+      internalID: -8766678981233132302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 244
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1d971e1c984840800000000000000
+      internalID: 5208584622113102546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolitaoarmao_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 179
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb087f448fdfaa00800000000000000
+      internalID: 770079820665588715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
